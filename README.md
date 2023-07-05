@@ -11,3 +11,6 @@ npm i
 
 3. Run the project.
 npx expo start --web
+
+The link for the issue is as follows:
+https://github.com/expo/expo/issues/23296#issue-1788862275
